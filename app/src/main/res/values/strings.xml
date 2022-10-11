@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MTMP</string>
+    <string name="speed">Speed</string>
+    <string name="angle">Angle between 0–90</string>
+    <string name="calculate">Calculate</string>
+    <string name="y">Y:</string>
+    <string name="x">X:</string>
+    <string name="textview">TextView</string>
+</resources>
